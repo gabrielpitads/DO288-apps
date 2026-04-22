@@ -6,7 +6,7 @@ const authors = [
   },
   {
     id: 2,
-    name: 'F Scott Fitzgerald',
+    name: 'Scott Fitzgerald',
     dob: 1896
   },
   {
